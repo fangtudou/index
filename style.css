@@ -1,0 +1,57 @@
+body{
+	background-color: snow;
+}
+
+
+
+#nav{
+	background-color: #454546;
+	position: relative;
+	margin: 0 auto;
+	height: 32px;
+	padding: 20px 0 0 0;
+	border: 1px solid red;
+}
+
+#nav-inside{
+	position: relative;	
+	margin: 0 auto;
+	max-width: 1000px;
+	color: white;
+}
+
+ul.nav-inside{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li.nav-insider{
+	display: inline;
+}
+
+#header{	
+	position: relative;
+	height: 300px;
+	border: 1px solid red;
+
+}
+
+
+#title{
+
+}
+
+
+
+#container{
+	height: 300px;
+	border: 1px solid red;
+}
+
+
+#footer{
+	background-color: dimgray;
+	height: 48px;
+	border: 1px solid red;
+}
