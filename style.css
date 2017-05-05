@@ -1,57 +1,39 @@
 body{
 	background-color: snow;
+	margin: 0;
 }
 
+#header{
+	height: 300px;
+}
 
 
 #nav{
 	background-color: #454546;
-	position: relative;
-	margin: 0 auto;
-	height: 32px;
-	padding: 20px 0 0 0;
-	border: 1px solid red;
+	height: 48px;
 }
-
-#nav-inside{
-	position: relative;	
-	margin: 0 auto;
-	max-width: 1000px;
-	color: white;
-}
-
-ul.nav-inside{
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-}
-
-li.nav-insider{
-	display: inline;
-}
-
-#header{	
-	position: relative;
-	height: 300px;
-	border: 1px solid red;
-
-}
-
 
 #title{
-
+	height: 48px;
 }
 
-
-
-#container{
-	height: 300px;
-	border: 1px solid red;
+#banner{
+	height: 48px;
 }
 
+#warpper{
+	height: 1200px;
+}
+
+#content{
+	width: 800px;
+}
+
+#sidebar{
+	width: 200px;
+}
 
 #footer{
 	background-color: dimgray;
 	height: 48px;
-	border: 1px solid red;
 }
